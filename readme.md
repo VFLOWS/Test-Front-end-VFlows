@@ -9,9 +9,9 @@
 <blockquote align="center">Tecnologia que flui!</blockquote>
 
 <p align="center">
-  <a href="##-Sobre-o-desafio">Sobre o desafio</a>
+  <a href="#-Sobre-o-desafio">Sobre o desafio</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="##-Requisitos">Requisitos</a>
+  <a href="#-Requisitos">Requisitos</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Layout">Layout</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -72,7 +72,7 @@ O layout do desafio está em anexo na pasta [docs](./docs/) deste repositório.
 
 ## 📅 Entrega
 
-Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `matheus.menezes@vflows.com.br` **com o link** do repositório e com o assunto **"`Entrega de desafio front-end`"** para correção.
+Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `matheus.menezes@vflows.com.br` **com o link** do repositório e com o assunto **`Entrega de desafio front-end`** para correção.
 
 Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras. (☞ ﾟヮﾟ)☞
 
