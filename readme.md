@@ -72,9 +72,7 @@ O layout do desafio está em anexo na pasta [docs](./docs/) deste repositório.
 
 ## 📅 Entrega
 
-Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `matheus.menezes@vflows.com.br` **com o link** do repositório e com o assunto **`Entrega de desafio front-end`** para correção.
-
-Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras. (☞ ﾟヮﾟ)☞
+Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `matheus.menezes@vflows.com.br` **com o link** do repositório e com o assunto **`Entrega de desafio front-end`** para correção. (☞ ﾟヮﾟ)☞
 
 ---
 
