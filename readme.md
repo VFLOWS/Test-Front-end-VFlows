@@ -28,7 +28,7 @@ Durante esse desafio vamos construir o front-end de uma aplicação de gerenciam
 
 A Aplicação deve ser construídas utilizando as seguintes tecnologias:
 
-- **NodeJs** na versão 14.x ou superior
+- **NodeJs** na versão 16.x ou superior
 - Linguagem: **JavaScript**
 - Lib: **ReactJS** ([Scaffold ViteJs](https://vitejs.dev))
 - Estilos:
@@ -36,22 +36,18 @@ A Aplicação deve ser construídas utilizando as seguintes tecnologias:
   - **TailwindCss**
 - Configuração de Rotas: **React Router Dom**
 - Estado compartilhado entre componentes: **ContextAPI**
-- Configuração de padronização de código:
-  - **Eslint**
-  - **Prettier**
 - Os formulários devem ser construídos utilizando: **[Unform](https://unform-rocketseat.vercel.app)**
 
 ### Opcionais
 
 - Linguagem: **TypeScript**
+- Configuração de padronização de código:
+  - **Eslint**
+  - **Prettier**
 
 ### Dicas
 
-1. **Padronização de código**: Através deste [tutorial](https://www.notion.so/Padr-es-de-projeto-com-ESLint-Prettier-e-EditorConfig-0b57b47a24724c859c0cf226aa0cc3a7) feito pela [Rocketseat](https://rocketseat.com.br/), você pode encontrar como configurar Eslint e Prettier na sua aplicação.
-
-   1.2 **Atenção**: Instale a versão `7.32.0` do eslint. (Evitar dores de cabeça)
-
-2. **Uso das tecnologias**: Fique a vontade para pesquisar sobre as tecnologias usadas onde queira. Recomendo o canal do Youtube da Rocketseat.
+1. **Uso das tecnologias**: Fique a vontade para pesquisar sobre as tecnologias usadas onde queira. Recomendo o canal do Youtube da Rocketseat.
 
 ### Funcionalidades
 
@@ -72,7 +68,7 @@ O layout do desafio está em anexo na pasta [docs](./docs/) deste repositório.
 
 ## 📅 Entrega
 
-Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `matheus.menezes@vflows.com.br` **com o link** do repositório e com o assunto **`Entrega de desafio front-end`** para correção. (☞ ﾟヮﾟ)☞
+Esse desafio **deve ser entregue em um repositório público** do github e enviar um e-mail para `taina.sousa@vflows.com.br` e `matheus.menezes@vflows.com.br` **com o link** do repositório e com o assunto **`Entrega de desafio front-end`** para correção. (☞ ﾟヮﾟ)☞
 
 ---
 
